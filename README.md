@@ -1,0 +1,1 @@
+This is Barbara's first git project for Odin's curriculum!
